@@ -1,0 +1,13 @@
+name: sentiment
+title: sentiment
+username:
+account: 123r
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7642643
+bundleId: 6519180
+url: https://123r.shinyapps.io/sentiment/
+when: 1668573604.8214
+lastSyncTime: 1668573604.8214
+asMultiple: FALSE
+asStatic: FALSE

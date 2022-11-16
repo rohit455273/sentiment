@@ -1,0 +1,24 @@
+body{
+  background-repeat:  no-repeat;
+  background-image:  url("n.png");
+  background-position: 660px 180px  ;
+ background-size: 100px;
+ background-color: green; 
+ background-attachment: fixed;
+}
+
+
+
+
+/*@keyframes l{
+  
+  20%{
+  background-image: url("s.jpg");}
+    50%{
+  background-image: url("f.png");}
+    
+    100%{
+  background-image: url("n.png");
+    }
+  
+}*/

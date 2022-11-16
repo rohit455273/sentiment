@@ -1,0 +1,22 @@
+body{
+  
+  
+  animation-name: l;
+  animation-iteration-count: infinite;
+  animation-duration: 4s;
+  animation-direction: alternate-reverse;
+  
+}
+
+
+@keyframes l{
+  
+  20%{
+  background-color:green;}
+    50%{
+  background-color:blue;}
+    100%{
+  background-color: url("n.png");
+    }
+  
+}
